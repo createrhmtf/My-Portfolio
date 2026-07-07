@@ -18,6 +18,15 @@ The "View Resume" button on the website opens this PDF in a modal.
 
 You can upload this folder to Vercel, Netlify, GitHub Pages, or any static hosting service.
 
+## Featured GitHub Repositories
+
+- Blog-CMS: `https://github.com/createrhmtf/Blog-CMS`
+- YPDC-Membership-Portal: `https://github.com/createrhmtf/YPDC-Membership-Portal`
+- My-Portfolio: `https://github.com/createrhmtf/My-Portfolio`
+- Contact-Management-System: `https://github.com/createrhmtf/Contact-Management-System`
+- ciro-pakistan: `https://github.com/createrhmtf/ciro-pakistan`
+- Pomodoro-Timer: `https://github.com/createrhmtf/Pomodoro-Timer`
+
 ## Main Files
 
 - `index.html` - page content and structure
